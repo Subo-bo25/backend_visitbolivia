@@ -7,7 +7,7 @@ FastAPI backend service for managing trip package data and reviews via Google Sh
 **Original Developer:** Sergio Agreda  
 **Email:** sergioagreda21@outlook.com  
 **GitHub:** [@AgredaLem023](https://github.com/AgredaLem023)  
-**Development Period:** [SPECIFY DATES]  
+**Development Period:** May 2025 - Jul 2025  
 **Project:** Visit Bolivia - Travel Package Management Backend  
 
 > **Copyright © 2025 Sergio Agreda. All rights reserved.**  
